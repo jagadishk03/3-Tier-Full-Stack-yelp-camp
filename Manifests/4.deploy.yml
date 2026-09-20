@@ -22,7 +22,7 @@ spec:
 
       containers:
         - name: yelp-camp-container
-          image: shaikmustafa/finalcamp:v1
+          image: 600178453345.dkr.ecr.eu-north-1.amazonaws.com/myrepo@sha256:38691379ab3bce5dcf953b33379d00b65cbdfe9fc330724d3c6492ba3e43fc4e
           ports:
             - containerPort: 3000
 
